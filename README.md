@@ -12,6 +12,14 @@ This project aims to analyze the **`Road Accident Data.xlsx`** dataset to:
 - **Discover** trends and patterns in accident occurrence and severity.  
 - **Provide** actionable insights and recommendations for policymakers and stakeholders to enhance road safety and reduce accident rates.
 
+## Tools & Technologies Used
+- **Python** (Data Cleaning, Analysis, and Visualization)
+  - `pandas` – Data manipulation and preprocessing
+  - `numpy` – Numerical computations
+  - `matplotlib` – Static visualizations
+  - `seaborn` – Statistical visualizations
+- **Power BI** – Interactive dashboard creation and insights presentation
+
 ## Expected Outcomes
 - Data-driven understanding of accident patterns.
 - Evidence-based recommendations for accident prevention.
